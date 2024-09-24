@@ -13,7 +13,7 @@ Justify model selection for reconstruction, denoising, and synthetic data genera
 2. Data Acquisition and Exploration
 Dataset Creation:
 
-Use a publicly available dataset (e.g., ShapeNet) or simulate laser scans of CAD models, introducing noise and missing data patterns.
+Use a publicly available dataset (e.g., ShapeNet or ModelNet40) or simulate laser scans of CAD models, introducing noise and missing data patterns.
 
 ### Deliverable:
 Summary of dataset acquisition or simulation.
