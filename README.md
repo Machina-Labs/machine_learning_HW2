@@ -35,7 +35,7 @@ Description of preprocessing steps and parameters.
 - Evaluation scripts and a report with quantitative results and visual comparisons.
 - Integration with Metrology Applications
 - Use synthetic data to train or augment a defect detection model.
-
+- Please provide dependencies such as (requirements.txt,... ) for you project 
 ## Submission
 In order to submit the assignment, do the following:
 1. Navigate to GitHub's project import page: [https://github.com/new/import](https://github.com/new/import)
